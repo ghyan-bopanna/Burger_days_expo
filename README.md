@@ -100,3 +100,8 @@ Web: expo start --web
 2. Expo SDK: v52.0.37
 3. Firebase: v11.3.1
 4. React Navigation: Bottom Tabs v7.2.0, Stack v7.1.1
+
+## Working
+
+[![Watch the Demo](https://img.youtube.com/vi/S5lp1sMSfJ4/0.jpg)](https://www.youtube.com/watch?v=S5lp1sMSfJ4)
+
